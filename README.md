@@ -1,51 +1,59 @@
-<h1 align="center">👑 Subash Bhusal 👑</h1>
+<!-- Animated Royal Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=240&section=header&text=Subash%20Bhusal&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <h3 align="center">
 Web Developer | CS Student | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=700&color=8B0000&center=true&vCenter=true&width=700&lines=Student;Life+Long+Learner;Problem+Solver;Tech+Enthusiast;Aspiring+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=850&lines=Student;Life+Long+Learner;Problem+Solver;Tech+Enthusiast;Aspiring+Developer" />
 </p>
 
 ---
 
+<!-- Matrix Futuristic Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+</p>
+
 ## 🧑‍💻 Who Am I?
 
-I am a **passionate tech enthusiast** who turns ideas into **digital experiences**, curiosity into **continuous learning**, and concepts into **practical solutions**.  
+I am a **student**, **life-long learner**, **problem solver**, **tech enthusiast**, and an **aspiring developer**.
 
+A passionate individual who transforms **ideas into digital experiences**, curiosity into **continuous learning**, and concepts into **practical solutions**.  
 I don’t just learn technology — **I build with purpose**.
-
-- 🎓 CS Student  
-- 🛠️ Web Developer  
-- 🧠 Problem Solver  
-- 🚀 Aspiring Engineer  
 
 ---
 
 ## 👔 Role & Identity
 
-**CEO at Byteon Tech**  
-> _“Where ideas turn digital.”_
+👑 **CEO at Byteon Tech**  
+> *Where ideas turn digital.*
 
 ---
 
 ## 🧠 Current Learning
-🎯 **Computer Science & Engineering (CSE)**  
-Focusing on logic, clean code, and real-world applications.
+
+🎓 **Computer Science & Engineering (CSE)**  
+Focused on:
+- Logical thinking  
+- Clean & maintainable code  
+- Real-world engineering solutions  
 
 ---
 
 ## 🧩 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Programming-Logic%20Driven-darkred?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debugging-Structured-blue?style=for-the-badge&logo=bugatti&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming-Logic%20Driven-800000?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Debugging-Problem%20Solver-1a1a1a?style=for-the-badge&logo=bugatti&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-MS%20Excel-006400?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
@@ -67,15 +75,15 @@ Focusing on logic, clean code, and real-world applications.
 - Clean and structured code  
 - Debugging-focused approach  
 
-**Core Skills:**  
+**Skills:**  
 `Programming Fundamentals` `Logical Analysis` `Debugging`
 
 ---
 
 ### 📊 Data Handling & Analysis Project
 - Data organization & management  
-- Practical decision-making  
-- Accuracy-focused analysis  
+- Accurate decision-making  
+- Practical data analysis  
 
 **Tools:**  
 `MS Excel` `Data Analysis`
@@ -85,13 +93,13 @@ Focusing on logic, clean code, and real-world applications.
 ## 🎯 Vision & Goal
 
 > **My vision is to design solutions that are efficient, sustainable, and impactful.**  
-Every project I take on is guided by **logic**, **responsibility**, and the desire to leave a **meaningful mark through engineering excellence**.
+Every project I undertake is guided by **logic**, **responsibility**, and the ambition to leave a **meaningful mark through engineering excellence**.
 
 ---
 
-## 👑 Royal Quote
+## 👑 Nepali Royal Tech Quote 🇳🇵
 
-> _“True power lies not in control, but in creation.”_
+> **“प्रविधि साधन मात्र होइन, सही सोच भए परिवर्तनको शक्ति बन्छ।”**
 
 ---
 
@@ -107,23 +115,32 @@ Every project I take on is guided by **logic**, **responsibility**, and the desi
 
 ---
 
+## 🐍 Contribution Snake (3D Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/subash-bhusal-235349366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Royal%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/subash-bhusal-235349366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Royal%20Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:subashbhusal33h@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-darkred?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-800000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<!-- Royal Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=120&section=footer&animation=fadeIn" />
 </p>
 
 <p align="center">
-  👑 <b>Building with logic. Designing with purpose.</b> 👑
+👑 <b>Building with logic. Designing the future.</b> 👑
 </p>
