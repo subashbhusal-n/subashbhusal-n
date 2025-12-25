@@ -14,8 +14,9 @@ Web Developer | CS Student | Tech Enthusiast
 ---
 
 <!-- Matrix Futuristic Animation -->
+<!-- Futuristic Auto Coding Mirror Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656963-0917c1a5-0eab-4b6b-9c1f-4d64d0f0fef5.gif" width="100%" />
 </p>
 
 ## 🧑‍💻 Who Am I?
