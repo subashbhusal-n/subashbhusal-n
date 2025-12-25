@@ -1,37 +1,129 @@
-<!-- ================== CYBER NEON GLASS HEADER ================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=CYBER%20TECH%20STUDENT&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00f7ff&animation=fadeIn"/>
-</p>
+<h1 align="center">👑 Subash Bhusal 👑</h1>
+
+<h3 align="center">
+Web Developer | CS Student | Tech Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Tech+Student+with+Strong+Interest+in+Technology;Cyber+Neon+Web+Developer;Code+%7C+Create+%7C+Innovate;Building+the+Future+with+Technology"/>
-</p>
-
-<!-- ================== AUTO CODING BACKGROUND ================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=700&color=8B0000&center=true&vCenter=true&width=700&lines=Student;Life+Long+Learner;Problem+Solver;Tech+Enthusiast;Aspiring+Developer" />
 </p>
 
 ---
 
-<h1 align="center">👋 Hi, I'm Subash Bhusal</h1>
+## 🧑‍💻 Who Am I?
+
+I am a **passionate tech enthusiast** who turns ideas into **digital experiences**, curiosity into **continuous learning**, and concepts into **practical solutions**.  
+
+I don’t just learn technology — **I build with purpose**.
+
+- 🎓 CS Student  
+- 🛠️ Web Developer  
+- 🧠 Problem Solver  
+- 🚀 Aspiring Engineer  
 
 ---
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65"/> </p>
+## 👔 Role & Identity
 
-<table align="center"> <tr> <td align="center" width="300">
- 
+**CEO at Byteon Tech**  
+> _“Where ideas turn digital.”_
 
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-00f7ff?style=for-the-badge"/> </td> <td align="center" width="300">
+---
 
+## 🧠 Current Learning
+🎯 **Computer Science & Engineering (CSE)**  
+Focusing on logic, clean code, and real-world applications.
 
+---
 
-<img src="https://img.shields.io/badge/TECH-PHP%20%7C%20MySQL-ff00ff?style=for-the-badge"/> </td> <td align="center" width="300">
+## 🧩 Tech Stack & Tools
 
-<img src="https://img.shields.io/badge/DESIGN-CYBER%20NEON-00ffcc?style=for-the-badge"/> </td> </tr> </table>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subashbhusal&show_icons=true&theme=tokyonight&border_radius=25"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashbhusal&theme=tokyonight&border_radius=25"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashbhusal&layout=compact&theme=tokyonight&border_radius=25"/> </p>
-<p align="center"> <a href="https://github.com/subashbhusal"> <img src="https://img.shields.io/badge/GitHub-CYBER-black?style=for-the-badge&logo=github&logoColor=00f7ff"/> </a> <a href="https://linkedin.com/in/subash-bhusal"> <img src="https://img.shields.io/badge/LinkedIn-NEON-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:subashbhusal33h@gmail.com"> <img src="https://img.shields.io/badge/Email-CONTACT-red?style=for-the-badge&logo=gmail"/> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=CODE%20IN%20NEON%20%7C%20BUILD%20THE%20FUTURE&fontAlign=50&fontAlignY=50&color=0:0f2027,50:203a43,100:2c5364&fontColor=00f7ff"/> </p> ``
-I learn technology to create impact.
-I am evolving with every line of code.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-Logic%20Driven-darkred?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-Structured-blue?style=for-the-badge&logo=bugatti&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 📱 Web Application Project
+- User interaction & form handling  
+- Dynamic content rendering  
+- Frontend logic & UI design  
+
+**Tech Used:**  
+`HTML` `CSS` `JavaScript` `Git` `Browser DevTools`
+
+---
+
+### 🧠 Programming & Problem-Solving Project
+- Logical problem solving  
+- Clean and structured code  
+- Debugging-focused approach  
+
+**Core Skills:**  
+`Programming Fundamentals` `Logical Analysis` `Debugging`
+
+---
+
+### 📊 Data Handling & Analysis Project
+- Data organization & management  
+- Practical decision-making  
+- Accuracy-focused analysis  
+
+**Tools:**  
+`MS Excel` `Data Analysis`
+
+---
+
+## 🎯 Vision & Goal
+
+> **My vision is to design solutions that are efficient, sustainable, and impactful.**  
+Every project I take on is guided by **logic**, **responsibility**, and the desire to leave a **meaningful mark through engineering excellence**.
+
+---
+
+## 👑 Royal Quote
+
+> _“True power lies not in control, but in creation.”_
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subashbhusal-n&show_icons=true&theme=gruvbox&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashbhusal-n&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subash-bhusal-235349366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Royal%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:subashbhusal33h@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-darkred?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  👑 <b>Building with logic. Designing with purpose.</b> 👑
+</p>
