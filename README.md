@@ -1,4 +1,4 @@
-<!-- Animated Royal Header -->
+<!-- ================= ROYAL ANIMATED HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=240&section=header&text=Subash%20Bhusal&fontSize=48&fontColor=FFD700&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -13,11 +13,12 @@ Web Developer | CS Student | Tech Enthusiast
 
 ---
 
-<!-- Matrix Futuristic Animation -->
-<!-- Futuristic Auto Coding Mirror Animation -->
+<!-- ================= FUTURISTIC AUTO CODING MIRROR ================= -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656963-0917c1a5-0eab-4b6b-9c1f-4d64d0f0fef5.gif" width="100%" />
 </p>
+
+---
 
 ## 🧑‍💻 Who Am I?
 
@@ -53,7 +54,7 @@ Focused on:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programming-Logic%20Driven-800000?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/Debugging-Problem%20Solver-1a1a1a?style=for-the-badge&logo=bugatti&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Debugging-Problem%20Solver-111111?style=for-the-badge&logo=bugatti&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/Data%20Analysis-MS%20Excel-006400?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
@@ -116,7 +117,7 @@ Every project I undertake is guided by **logic**, **responsibility**, and the am
 
 ---
 
-## 🐍 Contribution Snake (3D Animation)
+## 🐍 3D Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -137,7 +138,7 @@ Every project I undertake is guided by **logic**, **responsibility**, and the am
 
 ---
 
-<!-- Royal Footer -->
+<!-- ================= ROYAL FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=800000&height=120&section=footer&animation=fadeIn" />
 </p>
