@@ -1,281 +1,383 @@
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
+
+<!--                    ANIMATED HERO                          -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:0f172a&text=SUBASH%20BHUSAL&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-
-<h1 align="center">
-  👋 Hi, I'm Subash Bhusal
-</h1>
-
-<h3 align="center">
-  Computer Science & Engineering Student • Python Developer • AI/ML Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Projects%2C+Not+Just+Watching+Tutorials;Python+%7C+AI%2FML+%7C+Computer+Vision;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving;Turning+Ideas+Into+Real+Applications;Future+AI+Engineer+%F0%9F%A4%96" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,50:0f172a,100:020617&text=SUBASH%20BHUSAL&fontSize=52&fontColor=38BDF8&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/subashbhusal-n">
-    <img src="https://img.shields.io/github/followers/subashbhusal-n?label=Followers&style=for-the-badge&logo=github&color=0f172a"/>
-  </a>
-  <a href="https://github.com/subashbhusal-n?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Computer+Science+%26+Engineering+Student;Python+Developer+%7C+AI%2FML+Enthusiast;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Real+World+Projects+%F0%9F%9A%80;Learning+%E2%86%92+Building+%E2%86%92+Debugging+%E2%86%92+Improving" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subashbhusal-n&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/subashbhusal-n?label=FOLLOWERS&style=for-the-badge&color=0f172a&labelColor=020617"/>
+  <img src="https://img.shields.io/github/stars/subashbhusal-n?label=STARS&style=for-the-badge&color=38BDF8&labelColor=020617"/>
 </p>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+<!-- ========================================================= -->
 
-## 🧑‍💻 About Me
+<!--                    TERMINAL INTRO                         -->
 
-I'm a **Computer Science & Engineering student** passionate about building practical software and understanding how technology works behind the scenes.
+<!-- ========================================================= -->
 
-My current journey is focused on:
+## 💻 `whoami`
 
-* 🐍 **Python & Software Development**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 👁️ **Computer Vision & OpenCV**
-* 🌐 **Web Development**
-* 🧠 **Problem Solving & Algorithms**
-* 🔧 **Building real-world projects**
+```bash
+┌──(subash㉿github)-[~/profile]
+└─$ ./about_me.sh
 
-I believe the best way to learn programming is:
+> Initializing developer profile...
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
+[✓] Name       : Subash Bhusal
+[✓] Role       : Computer Science & Engineering Student
+[✓] Language   : Python
+[✓] Focus      : AI / ML / Computer Vision
+[✓] Environment: Linux • Windows • VS Code
+[✓] Status     : Learning & Building
 
-I'm continuously turning what I learn into small projects and gradually moving toward more advanced systems.
-
----
-
-## 🚀 What I'm Currently Building
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    CURRENT FOCUS                         │
-├──────────────────────────────────────────────────────────┤
-│ 🐍 Python              ████████████████████░░  Learning  │
-│ 🤖 AI / ML             ███████████████░░░░░░░  Exploring │
-│ 👁️ Computer Vision     ████████████░░░░░░░░░  Learning  │
-│ 🌐 Web Development     ████████████████░░░░░░  Building │
-│ 🧠 Problem Solving     █████████████████░░░░░  Improving│
-└──────────────────────────────────────────────────────────┘
+> Mission:
+> Build useful technology.
+> Understand how it works.
+> Keep improving.
 ```
 
 ---
 
-# 🛠️ Tech Stack
+## 🧠 About Me
 
-### 💻 Programming
+I'm a **Computer Science & Engineering student** passionate about programming, artificial intelligence, and building practical software.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,php" />
+My development journey is currently moving through:
+
+```text
+              ┌───────────────┐
+              │    PYTHON     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ DATA & LOGIC  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │   AI / ML     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ COMPUTER      │
+              │    VISION     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ AI ENGINEERING│
+              └───────────────┘
+```
+
+I prefer **building projects over simply watching tutorials**.
+
+---
+
+# ⚡ Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-████████████████░░-38BDF8?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-██████████████░░░░-38BDF8?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-████████████░░░░░░-38BDF8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </p>
 
-### 🌐 Web Development
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Development-███████████████░░░-38BDF8?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-████████████████░░-38BDF8?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</p>
+
+---
+
+# 🛠️ Technology Matrix
+
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,js,php" />
+</p>
+
+### 🌐 Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🤖 AI / Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
+<img src="https://skillicons.dev/icons?i=python,opencv" />
 </p>
 
-### 🔧 Tools & Development
+### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
-
-### 📊 Other Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Projects
 
-### 🐍 Python Projects
+<table>
+<tr>
+<td width="50%">
 
-Building practical Python applications while strengthening programming fundamentals.
+### ⏰ Digital Clock
 
-**Current projects include:**
+A real-time digital clock built with Python.
 
-* ⏰ Digital Clock
-* 💰 Currency Converter
-* 📊 Student Management Programs
-* 🧮 Mathematical & Utility Applications
-* 🔧 Automation Experiments
+**Tech**
 
-**Focus:**
-`Python` `Functions` `OOP` `APIs` `File Handling` `Problem Solving`
+`Python` `Tkinter` `Datetime`
 
----
+**Features**
+
+* Real-time updates
+* GUI interface
+* Date & time display
+* Lightweight application
+
+</td>
+
+<td width="50%">
+
+### 💱 Currency Converter
+
+A Python application for converting currencies using exchange-rate data.
+
+**Tech**
+
+`Python` `API` `JSON`
+
+**Focus**
+
+* API integration
+* Data handling
+* Error handling
+* Real-world application logic
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 👁️ Computer Vision
 
-Exploring how computers can understand images and video.
+Exploring image and video processing using OpenCV.
 
-Currently learning:
+**Learning**
+
+`OpenCV` `Image Processing` `Face Detection`
+
+</td>
+
+<td width="50%">
+
+### 🌐 Web Projects
+
+Building responsive and interactive websites.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧬 Developer Evolution
 
 ```text
-Image Processing
-      ↓
-OpenCV
-      ↓
-Image Recognition
-      ↓
-Object Detection
-      ↓
-Face Detection
-      ↓
-Real-Time Computer Vision
+2024
+ │
+ ├── HTML / CSS
+ │
+ ↓
+2025
+ │
+ ├── JavaScript
+ ├── PHP
+ ├── Git / GitHub
+ │
+ ↓
+2026
+ │
+ ├── Python
+ ├── APIs
+ ├── OpenCV
+ ├── Computer Vision
+ │
+ ↓
+NEXT
+ │
+ ├── NumPy
+ ├── Pandas
+ ├── Machine Learning
+ ├── Deep Learning
+ ├── Neural Networks
+ │
+ ↓
+🎯 AI ENGINEERING
 ```
 
 ---
 
-### 🌐 Web Development
+# 🧠 Learning Philosophy
 
-Creating responsive websites and interactive web applications.
+```python
+while True:
 
-**Technologies:**
+    learn()
 
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Git`
+    build()
+
+    experiment()
+
+    error = debug()
+
+    improve(error)
+```
+
+> **Code is not learned by memorizing syntax.
+> It is learned by building, breaking, debugging, and rebuilding.**
 
 ---
 
-# 🧠 My Learning Roadmap
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=subashbhusal-n&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=00000000" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashbhusal-n&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=00000000" height="180"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subashbhusal-n&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=subashbhusal-n&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subashbhusal-n&bg_color=00000000&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Mission
 
 ```text
-Python
-  │
-  ├── Programming Fundamentals
-  ├── OOP
-  ├── Data Structures & Algorithms
-  │
-  ↓
-AI / Machine Learning
-  │
-  ├── NumPy
-  ├── Pandas
-  ├── Matplotlib
-  ├── Scikit-Learn
-  │
-  ↓
-Computer Vision
-  │
-  ├── OpenCV
-  ├── Image Processing
-  ├── Object Detection
-  ├── Face Detection
-  │
-  ↓
-Deep Learning
-  │
-  ├── Neural Networks
-  ├── CNN
-  ├── PyTorch / TensorFlow
-  │
-  ↓
-🚀 AI Engineering
+┌────────────────────────────────────────────────────┐
+│                  2026 OBJECTIVES                   │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  [✓] Strengthen Python fundamentals                │
+│  [ ] Master Object-Oriented Programming            │
+│  [ ] Data Structures & Algorithms                  │
+│  [ ] NumPy & Pandas                                │
+│  [ ] Machine Learning                              │
+│  [ ] Computer Vision                               │
+│  [ ] Deep Learning                                 │
+│  [ ] Build AI-powered applications                 │
+│  [ ] Contribute to Open Source                     │
+│  [ ] Build a professional AI portfolio             │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 📈 GitHub Activity
+# 🌐 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subashbhusal-n&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashbhusal-n&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashbhusal-n&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] Become highly proficient in Python
-* [ ] Master Object-Oriented Programming
-* [ ] Learn Data Structures & Algorithms
-* [ ] Build real-world Python applications
-* [ ] Learn Machine Learning fundamentals
-* [ ] Go deeper into Computer Vision
-* [ ] Build AI-powered projects
-* [ ] Contribute to Open Source
-* [ ] Build a strong engineering portfolio
-
----
-
-# 💡 My Philosophy
-
-> ### **Don't just learn technology. Build with it.**
-
-Every project is an opportunity to understand something deeper.
-
-Every bug is a problem waiting to be solved.
-
-Every failed attempt is part of the learning process.
-
-```text
-          LEARN
-            ↓
-          BUILD
-            ↓
-          BREAK
-            ↓
-         DEBUG
-            ↓
-         IMPROVE
-            ↓
-          BUILD
-            ↺
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<a href="https://github.com/subashbhusal-n">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/subash-bhusal-235349366/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:subashbhusal33h@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/subashbhusal-n">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
-</p>
+<!-- ========================================================= -->
+
+<!--                       FOOTER                              -->
+
+<!-- ========================================================= -->
 
 <p align="center">
-  <b>⚡ Building today. Learning every day. Engineering the future.</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0f172a,100:020617"/>
+
+</p>
+
+<h3 align="center">
+
+⚡ **BUILD • BREAK • DEBUG • IMPROVE**
+
+</h3>
+
+<p align="center">
+<i>Turning curiosity into code and ideas into engineering.</i>
 </p>
